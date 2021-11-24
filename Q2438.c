@@ -1,4 +1,4 @@
-//น้มุ 2438น๘ วฎภฬ 
+//ฟฟ 2438ฟ ฟฟ
 #include <stdio.h>
 int main(){
 	int a=0;

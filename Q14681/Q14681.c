@@ -16,7 +16,9 @@ int main(){
 	else if(x<0 && y<0){
 		printf("3");
 	}
-	else {printf("4");}
+	else {
+		printf("4");
+	}
 	
 	return 0;
 }
